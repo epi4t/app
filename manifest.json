@@ -1,0 +1,16 @@
+{
+  "name": "ใส่ชื่อโปรเจ็คของคุณ",
+  "short_name": "ใส่ชื่อโปรเจ็คของคุณสั้นๆ",
+  "description": "ใส่คำอธิบายโปรเจค",
+  "icons": [
+    {
+      "sizes": "228x228",
+      "type": "image/png",
+      "src": "/favicon.ico"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "blue",
+  "theme_color": "lightblue",
+  "start_url": "/index.html"
+}
