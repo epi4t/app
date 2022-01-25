@@ -1,7 +1,7 @@
 /*
  Probably one of the simplest functional service workers
  
- Version: 0.0.2
+ Version
 */
 
 self.addEventListener('install', e => {
