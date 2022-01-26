@@ -3,24 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <link rel="stylesheet" href="index.css">
   <link rel="manifest" href="manifest.json">
-  <link rel="canonical" href="https://pwa.glitch.me/">
   <link rel="favicon" href="favicon.ico">
   <script src="index.js"></script>
-  <script>
-    // This is just to force HTTPS (can't do it statically on glitch)
-    if(location.protocol == 'http:') location.protocol = 'https:';
-    if('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/sw.js')
-        .then(reg => console.log('Service Worker registered', reg))
-        .catch(err => console.error('Service Worker **not** registered', err));
-    }
-    else {
-      console.warn('Service Worker not supported in this browser');
-    }    
-  </script>
-
   <meta name="theme-color" content="black">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>อันนี้ขายของ</title>
@@ -28,7 +13,7 @@
   
   
 </head>
-<body class="loading">
+<body>
 <h1>จริงจังแค่ไหนเรียกจริงจัง</h1>
 </body>
 </html>
