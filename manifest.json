@@ -4,7 +4,7 @@
   "description": "คำอธิบายก็คือส่งของ",
   "icons": [
    {
-     "sizes": "228x228",
+     "sizes": "48x48",
      "type": "image/x-icon",
      "src": "favicon.ico"
    },
