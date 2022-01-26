@@ -2,13 +2,13 @@
   "name": "สั่งของยาวๆ",
   "short_name": "สั่งของสั้นๆ",
   "description": "คำอธิบายก็คือส่งของ",
-  "icons": [
-    {
-      "sizes": "228x228",
-      "type": "image/png",
-      "src": "favicon.png"
-    }
-  ],
+  //"icons": [
+   // {
+     // "sizes": "228x228",
+     // "type": "image/png",
+     // "src": "favicon.png"
+   // }
+ // ],
   "display": "standalone",
   "background_color": "blue",
   "theme_color": "black",
