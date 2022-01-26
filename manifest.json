@@ -5,13 +5,13 @@
   "icons": [
    {
      "sizes": "228x228",
-     "type": "image/png",
-     "src": "favicon.png"
+     "type": "image/x-icon",
+     "src": "favicon.ico"
    },
    {
       "sizes": "512x512",
-      "type": "image/png",
-      "src": "favicon.png"
+      "type": "image/x-icon",
+      "src": "favicon.ico"
    }
  ],
   "display": "standalone",
