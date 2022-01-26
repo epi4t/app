@@ -1,7 +1,7 @@
 {
-  "name": "สั่งของ",
-  "short_name": "สั่งของ",
-  "description": "REPLACE WITH YOUR PROJECT DEscription",
+  "name": "สั่งของยาวๆ",
+  "short_name": "สั่งของสั้นๆ",
+  "description": "คำอธิบายก็คือส่งของ",
   "icons": [
     {
       "sizes": "228x228",
@@ -12,5 +12,5 @@
   "display": "standalone",
   "background_color": "blue",
   "theme_color": "black",
-  "start_url": "/index.html"
+  "start_url": "index.html"
 }
